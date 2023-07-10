@@ -24,7 +24,7 @@ body {
 
 .button-container {
   background: #e3f4ff;
-  padding: 8px;
+  padding: 8px 10px;
   text-align: center;
 }
 
@@ -35,6 +35,7 @@ button {
   margin: auto;
   padding: 8px 24px;
 }
+
 /*
 - X There is 8px between the edge of the card and its content (the blue sections).
 - X There is an 8px gap between each of the blue sections inside the card.
